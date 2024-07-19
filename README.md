@@ -4,7 +4,7 @@
 
 Soy un desarrollador de software full stack con un fuerte enfoque en el backend. Mi pasión por la programación y mi deseo de resolver problemas me han llevado a trabajar con una variedad de tecnologías y herramientas. Aunque actualmente estoy en proceso de estudios, he acumulado experiencia valiosa a través de proyectos personales y académicos.
 
-##Tecnologías y Herramientas
+## Tecnologías y Herramientas
 Aquí están algunas de las tecnologías con las que he trabajado:
 
 ---
@@ -20,7 +20,7 @@ Aquí están algunas de las tecnologías con las que he trabajado:
 
 ---
 
-##Habilidades y Áreas de Interés
+## Habilidades y Áreas de Interés
 Desarrollo Backend: Node.js, Express.js, MongoDB
 Desarrollo Frontend: HTML, CSS, JavaScript
 Contenedores y DevOps: Docker
@@ -28,7 +28,7 @@ Programación en Python
 
 ---
 
-##Contacto
+## Contacto
 Puedes encontrarme en:
 
 - **Correo Electrónico:** daniel.estebancd.diaz@gmail.com
