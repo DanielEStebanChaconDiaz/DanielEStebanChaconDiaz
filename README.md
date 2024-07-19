@@ -1,7 +1,7 @@
-Hola, soy Daniel Esteban Chacón Díaz 👋
+### Hola, soy Daniel Esteban Chacón Díaz 👋
 Soy un desarrollador de software full stack con un fuerte enfoque en el backend. Mi pasión por la programación y mi deseo de resolver problemas me han llevado a trabajar con una variedad de tecnologías y herramientas. Aunque actualmente estoy en proceso de estudios, he acumulado experiencia valiosa a través de proyectos personales y académicos.
 
-Tecnologías y Herramientas
+**Tecnologías y Herramientas**
 Aquí están algunas de las tecnologías con las que he trabajado:
 
 <a href="https://www.html.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
@@ -13,7 +13,7 @@ Aquí están algunas de las tecnologías con las que he trabajado:
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
 
-Habilidades y Áreas de Interés
+**Habilidades y Áreas de Interés**
 Desarrollo Backend: Node.js, Express.js, MongoDB
 Desarrollo Frontend: HTML, CSS, JavaScript
 Contenedores y DevOps: Docker
@@ -21,7 +21,7 @@ Programación en Python
 Contacto
 Puedes encontrarme en:
 
-Correo Electrónico: daniel.chacon.diaz@gmail.com
-LinkedIn: [Tu LinkedIn aquí]
-GitHub: [Tu GitHub aquí]
+**Correo Electrónico:** daniel.estebancd.diaz@gmail.com
+**LinkedIn:** [https://www.linkedin.com/in/daniel-eseban-chacon-diaz-90764031a/]
+**GitHub:** [https://github.com/DanielEStebanChaconDiaz]
 Estoy siempre abierto a nuevas oportunidades y desafíos. ¡No dudes en ponerte en contacto!
