@@ -34,6 +34,8 @@ Puedes encontrarme en:
 - **Correo Electrónico:** daniel.estebancd.diaz@gmail.com
 - **LinkedIn:** [https://www.linkedin.com/in/daniel-eseban-chacon-diaz-90764031a/]
 - **GitHub:** [https://github.com/DanielEStebanChaconDiaz]
+-
+
 Estoy siempre abierto a nuevas oportunidades y desafíos. ¡No dudes en ponerte en contacto!
 
 ---
