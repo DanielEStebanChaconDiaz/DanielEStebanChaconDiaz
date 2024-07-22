@@ -32,7 +32,7 @@ Programación en Python
 Puedes encontrarme en:
 
 - **Correo Electrónico:** daniel.estebancd.diaz@gmail.com
-- **LinkedIn:** [https://www.linkedin.com/in/daniel-eseban-chacon-diaz-90764031a/]
+- **LinkedIn:** [https://www.linkedin.com/in/danielestebanchacondiaz/]
 - **GitHub:** [https://github.com/DanielEStebanChaconDiaz]
 
 ---
