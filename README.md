@@ -7,9 +7,30 @@ Soy un desarrollador de software full stack con un fuerte enfoque en el backend.
 ## Tecnologías y Herramientas
 Aquí están algunas de las tecnologías con las que he trabajado:
 
+
+
+## Habilidades y Áreas de Interés
+Desarrollo Backend: Node.js, Express.js, MongoDB
+Desarrollo Frontend: HTML, CSS, JavaScript
+Contenedores y DevOps: Docker
+Programación en Python
+
+---
+
+## Contacto
+Puedes encontrarme en:
+
+- **Correo Electrónico:** daniel.estebancd.diaz@gmail.com
+- **LinkedIn:** [https://www.linkedin.com/in/danielestebanchacondiaz/]
+- **GitHub:** [https://github.com/DanielEStebanChaconDiaz]
+
+---
+
+Estoy siempre abierto a nuevas oportunidades y desafíos. ¡No dudes en ponerte en contacto!
+
+---
+
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -37,28 +58,6 @@ Aquí están algunas de las tecnologías con las que he trabajado:
 </td><td valign="top" width="33%">
 
 
-</td> 
-
 <br/>  
 
 
-## Habilidades y Áreas de Interés
-Desarrollo Backend: Node.js, Express.js, MongoDB
-Desarrollo Frontend: HTML, CSS, JavaScript
-Contenedores y DevOps: Docker
-Programación en Python
-
----
-
-## Contacto
-Puedes encontrarme en:
-
-- **Correo Electrónico:** daniel.estebancd.diaz@gmail.com
-- **LinkedIn:** [https://www.linkedin.com/in/danielestebanchacondiaz/]
-- **GitHub:** [https://github.com/DanielEStebanChaconDiaz]
-
----
-
-Estoy siempre abierto a nuevas oportunidades y desafíos. ¡No dudes en ponerte en contacto!
-
----
