@@ -37,6 +37,8 @@ Aquí están algunas de las tecnologías con las que he trabajado:
 </td><td valign="top" width="33%">
 
 
+</td></tr>  
+
 <br/>  
 
 
