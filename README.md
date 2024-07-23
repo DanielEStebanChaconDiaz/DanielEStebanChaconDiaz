@@ -9,7 +9,7 @@ Aquí están algunas de las tecnologías con las que he trabajado:
 
 ---
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 50px;">
   <div style="gap: 10%; text-align: center; display: flex; flex-direction: column;">
     <a href="https://www.html.com/" target="_blank">
       <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
