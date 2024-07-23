@@ -9,8 +9,8 @@ Aquí están algunas de las tecnologías con las que he trabajado:
 
 ---
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 50px;">
-  <div style="gap: 10%; text-align: center; display: flex; flex-direction: column;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <div style="gap: 10%; text-align: center; display: flex; margin: 10px;">
     <a href="https://www.html.com/" target="_blank">
       <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
     </a>
@@ -21,7 +21,7 @@ Aquí están algunas de las tecnologías con las que he trabajado:
       <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
     </a>
   </div>
-  <div style="gap: 10%; text-align: center; display: flex; flex-direction: column;">
+  <div style="gap: 10%; text-align: center; display: flex; margin: 10px;">
     <a href="https://www.javascript.com/" target="_blank">
       <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
     </a>
@@ -32,7 +32,7 @@ Aquí están algunas de las tecnologías con las que he trabajado:
       <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
     </a>
   </div>
-  <div style="gap: 10%; text-align: center; display: flex; flex-direction: column;">
+  <div style="gap: 10%; text-align: center; display: flex; margin: 10px;">
     <a href="https://www.docker.com/" target="_blank">
       <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
     </a>
