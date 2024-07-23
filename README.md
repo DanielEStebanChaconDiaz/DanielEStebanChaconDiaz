@@ -58,6 +58,4 @@ Estoy siempre abierto a nuevas oportunidades y desafíos. ¡No dudes en ponerte 
 </td><td valign="top" width="33%">
 
 
-<br/>  
-
 
