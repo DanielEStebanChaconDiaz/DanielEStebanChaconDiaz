@@ -35,7 +35,7 @@ Aquí están algunas de las tecnologías con las que he trabajado:
 </div>
 
 </td><td valign="top" width="33%">
-
+</td></tr></table>  
 ## Habilidades y Áreas de Interés
 Desarrollo Backend: Node.js, Express.js, MongoDB
 Desarrollo Frontend: HTML, CSS, JavaScript
