@@ -34,6 +34,7 @@ Aquí están algunas de las tecnologías con las que he trabajado:
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 </div>
 
+</td><td valign="top" width="33%">
 
 ## Habilidades y Áreas de Interés
 Desarrollo Backend: Node.js, Express.js, MongoDB
