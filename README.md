@@ -22,7 +22,6 @@ Puedes encontrarme en:
 
 - **Correo Electrónico:** daniel.estebancd.diaz@gmail.com
 - **LinkedIn:** [https://www.linkedin.com/in/danielestebanchacondiaz/]
-- **GitHub:** [https://github.com/DanielEStebanChaconDiaz]
 
 ---
 
