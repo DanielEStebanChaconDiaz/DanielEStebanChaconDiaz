@@ -46,8 +46,8 @@ Soy un desarrollador de software Full Stack con especialización en Backend. Mi 
 ## 📊 Estadísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DanielEStebanChaconDiaz&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielEStebanChaconDiaz&theme=radical" alt="GitHub Streak" />
 </div>
 
 ## 🚀 Proyectos Destacados
@@ -55,37 +55,77 @@ Soy un desarrollador de software Full Stack con especialización en Backend. Mi 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Proyecto 1</h3>
+      <h3 align="center">RURAQMAKI</h3>
       <div align="center">
-        <a href="URL_DEL_REPO" target="_blank">
-          <img src="https://via.placeholder.com/500x300?text=Proyecto+1" width="400" alt="Proyecto 1"/>
+        <a href="https://github.com/DanielEStebanChaconDiaz/expressProject" target="_blank">
+          <img src="https://via.placeholder.com/500x300?text=RURAQMAKI" width="400" alt="RURAQMAKI"/>
         </a>
         <p>
-          <a href="URL_DEL_REPO" target="_blank">
+          <a href="https://github.com/DanielEStebanChaconDiaz/expressProject" target="_blank">
             <img src="https://img.shields.io/badge/Código-GitHub-blue?style=for-the-badge&logo=github" alt="GitHub Repo"/>
           </a>
-          <a href="URL_DEL_DEMO" target="_blank">
-            <img src="https://img.shields.io/badge/Demo-Live-success?style=for-the-badge&logo=vercel" alt="Live Demo"/>
-          </a>
         </p>
-        <p><strong>Node.js, Express, MongoDB, React</strong> - Descripción breve del proyecto y sus características principales.</p>
+        <p><strong>Node.js, Express, MongoDB</strong> - Plataforma de gestión desarrollada durante mi tiempo en CAMPUSLANDS, implementando un backend robusto con Express y MongoDB.</p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">Proyecto 2</h3>
+      <h3 align="center">CINE CAMPUS</h3>
       <div align="center">
-        <a href="URL_DEL_REPO" target="_blank">
-          <img src="https://via.placeholder.com/500x300?text=Proyecto+2" width="400" alt="Proyecto 2"/>
+        <a href="https://github.com/DanielEStebanChaconDiaz/proyectoMongoII" target="_blank">
+          <img src="https://via.placeholder.com/500x300?text=CINE+CAMPUS" width="400" alt="CINE CAMPUS"/>
         </a>
         <p>
-          <a href="URL_DEL_REPO" target="_blank">
+          <a href="https://github.com/DanielEStebanChaconDiaz/proyectoMongoII" target="_blank">
             <img src="https://img.shields.io/badge/Código-GitHub-blue?style=for-the-badge&logo=github" alt="GitHub Repo"/>
           </a>
-          <a href="URL_DEL_DEMO" target="_blank">
-            <img src="https://img.shields.io/badge/Demo-Live-success?style=for-the-badge&logo=vercel" alt="Live Demo"/>
+        </p>
+        <p><strong>MongoDB, Express, Node.js</strong> - Sistema de gestión para cines con MongoDB avanzado, incluyendo funcionalidades de reservas y gestión de películas.</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">LANDING PAGES</h3>
+      <div align="center">
+        <a href="https://github.com/DanielEStebanChaconDiaz/proyectoWeb" target="_blank">
+          <img src="https://via.placeholder.com/500x300?text=LANDING+PAGES" width="400" alt="LANDING PAGES"/>
+        </a>
+        <p>
+          <a href="https://github.com/DanielEStebanChaconDiaz/proyectoWeb" target="_blank">
+            <img src="https://img.shields.io/badge/Código-GitHub-blue?style=for-the-badge&logo=github" alt="GitHub Repo"/>
           </a>
         </p>
-        <p><strong>React Native, SQL Server, Node.js</strong> - Descripción breve del proyecto y sus características principales.</p>
+        <p><strong>HTML5, CSS3, JavaScript</strong> - Colección de landing pages modernas y responsivas con diseños atractivos y optimizados para SEO.</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">POKEDEX</h3>
+      <div align="center">
+        <a href="https://github.com/DanielEStebanChaconDiaz/pokedex" target="_blank">
+          <img src="https://via.placeholder.com/500x300?text=POKEDEX" width="400" alt="POKEDEX"/>
+        </a>
+        <p>
+          <a href="https://github.com/DanielEStebanChaconDiaz/pokedex" target="_blank">
+            <img src="https://img.shields.io/badge/Código-GitHub-blue?style=for-the-badge&logo=github" alt="GitHub Repo"/>
+          </a>
+        </p>
+        <p><strong>JavaScript, APIs, CSS</strong> - Aplicación web que consume la PokéAPI para mostrar información detallada sobre Pokémon con una interfaz interactiva.</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" colspan="2">
+      <h3 align="center">SPOTIFY CLONE</h3>
+      <div align="center">
+        <a href="https://github.com/DanielEStebanChaconDiaz/proyectoJavaScript" target="_blank">
+          <img src="https://via.placeholder.com/500x300?text=SPOTIFY+CLONE" width="400" alt="SPOTIFY CLONE"/>
+        </a>
+        <p>
+          <a href="https://github.com/DanielEStebanChaconDiaz/proyectoJavaScript" target="_blank">
+            <img src="https://img.shields.io/badge/Código-GitHub-blue?style=for-the-badge&logo=github" alt="GitHub Repo"/>
+          </a>
+        </p>
+        <p><strong>JavaScript, HTML5, CSS3</strong> - Réplica de la interfaz de Spotify con funcionalidades de reproducción de música y gestión de playlists.</p>
       </div>
     </td>
   </tr>
@@ -95,16 +135,13 @@ Soy un desarrollador de software Full Stack con especialización en Backend. Mi 
 
 ```mermaid
 graph LR
-    A[2023] --> B[Empresa 1]
-    C[2022] --> D[Empresa 2]
-    E[2021] --> F[Freelance]
+    A[2025] --> B[La Muela SAS]
+    C[2024] --> D[Campuslands]
     
     style A fill:#f9f9f9,stroke:#333,stroke-width:1px
     style C fill:#f9f9f9,stroke:#333,stroke-width:1px
-    style E fill:#f9f9f9,stroke:#333,stroke-width:1px
     style B fill:#d4f1f9,stroke:#333,stroke-width:1px
     style D fill:#d4f1f9,stroke:#333,stroke-width:1px
-    style F fill:#d4f1f9,stroke:#333,stroke-width:1px
 ```
 
 ## 💬 Contacto
@@ -121,5 +158,5 @@ Me encuentro siempre en búsqueda de nuevos desafíos y oportunidades para apren
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&color=blue&style=flat-square&label=Visitas+al+Perfil" alt="Contador de visitas"/>
+  <img src="https://komarev.com/ghpvc/?username=DanielEStebanChaconDiaz&color=blue&style=flat-square&label=Visitas+al+Perfil" alt="Contador de visitas"/>
 </div>
